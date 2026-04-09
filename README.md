@@ -1,5 +1,5 @@
-# hope-through-hahns
-Non-Profit Website
+# Hope Through Hahns
+A non-profit organization dedicated to increasing funding and awareness to improve access to therapy dogs for patients with lower incomes
 <!doctype html>
 <html lang="en">
 <head>
