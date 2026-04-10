@@ -241,3 +241,38 @@ A non-profit organization dedicated to increasing funding and awareness to impro
   </footer>
 </body>
 </html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Green Text Website</title>
+  <style>
+    /* Soft, readable green. Change the hex here to adjust the shade. */
+    :root { --text-color: #2e8b57; } /* SeaGreen-like, soft but legible */
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #ffffff;
+      color: var(--text-color);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+      line-height: 1.6;
+    }
+
+    /* Ensure headings also follow the same color */
+    h1, h2, h3, h4, h5, h6 { color: var(--text-color); }
+    a { color: var(--text-color); text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Green Text Website</h1>
+  </header>
+  <main>
+    <p>This paragraph text is green because the color is applied to the body element and inherited by all text elements.</p>
+    <p>All normal text on this page will use the same green color unless overridden.</p>
+    <p><a href="#">This link is also green</a></p>
+  </main>
+</body>
+</html>
