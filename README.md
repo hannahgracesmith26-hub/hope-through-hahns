@@ -45,7 +45,7 @@ A non-profit organization dedicated to increasing funding and awareness to impro
     <div class="container hero-content">
       <h1>Hope Through Hahns</h1>
       <p class="subtitle">
-        A therapeutic, non-profit service where Hahn, a Great Pyrenees service dog, supports hospital patients emotionally and mentally.
+        A non-profit therapeutic service in which Hahns, a Great Pyrenees service dog, supports hospital patients emotionally and mentally. Along Hahn's journey, Hope Through Hahns is dedicated to increasing funds and awareness to improve access to therapy dogs for patients with lower incomes.
       </p>
       <a class="btn" href="get_involved.html" aria-label="Get involved with Hope Through Hahns">Get Involved</a>
     </div>
@@ -63,16 +63,15 @@ A non-profit organization dedicated to increasing funding and awareness to impro
     <section class="cta-preview" aria-label="Learn more about our work">
       <div class="card">
         <h3>What we do</h3>
-        <p>Hahn’s presence provides emotional support, reduces anxiety, and fosters a sense of calm and companionship for hospital patients.</p>
+        <p>Hahn’s presence provides emotional support, a calm atmosphere, and companionship for hospital patients when they need it most.</p>
       </div>
     </section>
   </main>
 
   <footer class="site-footer" role="contentinfo">
     <div class="container footer-inner">
-      <p>Follow Hahn’s journey on Instagram: <a href="https://www.instagram.com/hopethroughhahns" target="_blank" rel="noreferrer">@hopethroughhahns</a></p>
-      <p class="reference-footnote">
-        References (APA format placeholder): Dos Santos, F., Francisco, L., & Ribeiro, M. (2022). [Full title]. [Journal]. [DOI]
+      <p>Follow Hahn’s journey on Instagram: <a href="https://www.instagram.com/hopethroughhahns" target="_blank" rel="noreferrer">@hopethroughhahns</a>
+      </p>
       </p>
     </div>
   </footer>
@@ -104,23 +103,20 @@ A non-profit organization dedicated to increasing funding and awareness to impro
 
   <main class="container" id="main-content">
     <section aria-labelledby="about-title">
-      <h1 id="about-title">About Hope Through Hahns</h1>
+      <h1 id="about-title">About us</h1>
 
       <p>
-        Hahn is a sociable, gentle, compassionate, and attentive caregiver. He adores meeting new people and bestowing love on those who are disheartened.
-        Hahn has an innate ability to perceive and recognize when someone is feeling discouraged.
+        Hahns is a sociable, gentle, compassionate, and attentive caregiver. He adores meeting new people and bestowing love on those who are disheartened.
+        Hahn has an innate ability to perceive when someone is discouraged and then care for them in his unique way.
       </p>
-
-      <h2>About Me</h2>
-      <p>
         My name is Hannah Smith, and I am an aspiring healthcare professional dedicated to supporting patients’ emotional, mental, and physical well-being.
         As someone with a chronic genetic illness, I understand firsthand how discouraging the decline in health can be. Therefore, I believe mental care is essential to overall well-being,
-        as mental health significantly influences physical health (Dos Santos, Francisco, & Ribeiro, 2022).
+        as mental health significantly influences physical health.
       </p>
 
       <p>
-        Hope Through Hahns started as my CAS Project (creativity, activity, & service) during my time in the International Baccalaureate program, and evolved into a non-profit.
-        I’ve learned about the need for more funding for the training and certification of service dogs, which can cost 15–40 thousand dollars. This is often inaccessible to chronically ill, low-income patients.
+        Hope Through Hahns started as my CAS (creativity, activity, & service) project during my time in the International Baccalaureate program, and evolved into a non-profit with an even greater mission. 
+        I’ve learned about the necessity for more funding for the training and certification of service dogs, which can cost 15–40 thousand dollars. This is often inaccessible to chronically ill, low-income patients. These patients need the benefits that this therapy offers the most.
       </p>
     </section>
   </main>
@@ -160,13 +156,12 @@ A non-profit organization dedicated to increasing funding and awareness to impro
     <section aria-labelledby="awareness-title">
       <h1 id="awareness-title">Mental Health in Healing: Why It Matters</h1>
       <p>
-        Mental health support is a critical component of healing. The following space is reserved for an infographic or a link to a resource that explains why mental care matters and how it has positively impacted real lives.
+        Mental health support is a critical component of healing. Mental care matters, and it has positively impacted real lives.
       </p>
 
       <div class="infographic-placeholder" aria-label="Infographic placeholder">
         <!-- You can replace this with an actual infographic image or embed -->
         <div class="infographic-box">
-          <p>Infographic can be embedded here or linked below.</p>
           <a href="#" class="btn" target="_blank" rel="noreferrer">View Infographic</a>
         </div>
       </div>
@@ -175,7 +170,6 @@ A non-profit organization dedicated to increasing funding and awareness to impro
 
   <footer class="site-footer" role="contentinfo">
     <div class="container footer-inner">
-      <p>Follow Hahn’s journey on Instagram: <a href="https://www.instagram.com/hopethroughhahns" target="_blank" rel="noreferrer">@hopethroughhahns</a></p>
     </div>
   </footer>
 </body>
@@ -241,9 +235,7 @@ A non-profit organization dedicated to increasing funding and awareness to impro
 
   <footer class="site-footer" role="contentinfo">
     <div class="container footer-inner">
-      <p>Follow Hahn’s journey on Instagram: <a href="https://www.instagram.com/hopethroughhahns" target="_blank" rel="noreferrer">@hopethroughhahns</a></p>
-      <p class="donate-note">
-        Donations are welcome to support training, certification, and comfort items.
+      <p class="donate-note"> 
       </p>
     </div>
   </footer>
